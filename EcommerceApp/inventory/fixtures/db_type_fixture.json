@@ -1,0 +1,9 @@
+[
+    {
+        "model": "invetory.product_type",
+        "id": 1,
+        "fields": {
+            "name": "shoes"
+        }
+    }
+]
